@@ -16,14 +16,14 @@ namespace Zumlo.Gateway.Api.WebSockets
         private readonly TranscriptionSimulator _transcriber;
         private readonly AssistantResponseSimulator _assistant;
         private readonly ILogger<ConversationWebSocketHandler> _logger;
-        private readonly SpeechToTextService _speechToText;
-        public ConversationWebSocketHandler(SessionManager sessions, TranscriptionSimulator transcriber, AssistantResponseSimulator assistant, ILogger<ConversationWebSocketHandler> logger, SpeechToTextService speechToText)
+      
+        public ConversationWebSocketHandler(SessionManager sessions, TranscriptionSimulator transcriber, AssistantResponseSimulator assistant, ILogger<ConversationWebSocketHandler> logger)
         {
             _sessions = sessions;
             _transcriber = transcriber;
             _assistant = assistant;
             _logger = logger;
-            _speechToText = speechToText;
+           
 
         }
 
