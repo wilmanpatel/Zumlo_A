@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tg+cJ1M1X8=",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Zumlo_repo\\backend\\Zumlo.Gateway.Infrastructure\\Zumlo.Gateway.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LPT154\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LPT154\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\bin\Debug\net8.0\Zumlo.Gateway.Infrastructure.deps.json
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\bin\Debug\net8.0\Zumlo.Gateway.Infrastructure.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\bin\Debug\net8.0\Zumlo.Gateway.Infrastructure.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\bin\Debug\net8.0\Zumlo.Gateway.Domain.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\bin\Debug\net8.0\Zumlo.Gateway.Domain.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.AssemblyInfo.cs
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Ga.426684E9.Up2Date
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\refint\Zumlo.Gateway.Infrastructure.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\Zumlo.Gateway.Infrastructure.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Infrastructure\obj\Debug\net8.0\ref\Zumlo.Gateway.Infrastructure.dll

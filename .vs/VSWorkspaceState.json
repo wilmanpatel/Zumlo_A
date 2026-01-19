@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Zumlo.Gateway.Api",
+    "\\backend\\Zumlo.Gateway.Api\\WebSockets"
+  ],
+  "SelectedNode": "\\backend\\Zumlo.Gateway.Api\\WebSockets\\ConversationWebSocketHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

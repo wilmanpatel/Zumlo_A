@@ -1,0 +1,17 @@
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.csproj.AssemblyReference.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.AssemblyInfoInputs.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.AssemblyInfo.cs
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.csproj.CoreCompileInputs.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Application.deps.json
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Application.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Application.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Domain.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Infrastructure.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Domain.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\bin\Debug\net8.0\Zumlo.Gateway.Infrastructure.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Ga.7DECAEF6.Up2Date
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\refint\Zumlo.Gateway.Application.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\Zumlo.Gateway.Application.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Application\obj\Debug\net8.0\ref\Zumlo.Gateway.Application.dll

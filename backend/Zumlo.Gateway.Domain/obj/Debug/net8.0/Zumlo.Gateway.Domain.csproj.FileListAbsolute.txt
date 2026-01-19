@@ -1,0 +1,11 @@
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\bin\Debug\net8.0\Zumlo.Gateway.Domain.deps.json
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\bin\Debug\net8.0\Zumlo.Gateway.Domain.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\bin\Debug\net8.0\Zumlo.Gateway.Domain.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\Zumlo.Gateway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\Zumlo.Gateway.Domain.AssemblyInfoInputs.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\Zumlo.Gateway.Domain.AssemblyInfo.cs
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\Zumlo.Gateway.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\Zumlo.Gateway.Domain.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\refint\Zumlo.Gateway.Domain.dll
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\Zumlo.Gateway.Domain.pdb
+C:\Users\LPT154\Downloads\zumlo-voice-gateway\backend\Zumlo.Gateway.Domain\obj\Debug\net8.0\ref\Zumlo.Gateway.Domain.dll

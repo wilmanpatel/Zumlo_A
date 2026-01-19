@@ -1,0 +1,18 @@
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Zumlo.Gateway.Domain\Zumlo.Gateway.Domain.csproj" />
+    <ProjectReference Include="..\Zumlo.Gateway.Application\Zumlo.Gateway.Application.csproj" />
+    <ProjectReference Include="..\Zumlo.Gateway.Infrastructure\Zumlo.Gateway.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+  </ItemGroup>
+</Project>
