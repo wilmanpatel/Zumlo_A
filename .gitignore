@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/frontend/zumlo-voice-ui/node_modules
+/frontend/zumlo-voice-ui/.angular/cache/17.3.17
+/backend/.vs
