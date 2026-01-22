@@ -21,7 +21,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore $(ls -1 **/*.sln | head -n 1)"
+      run: dotnet restore $(ls -1 **/*.sln | head -n 1)
     - name: Build
       run: dotnet build --no-restore
     - name: Test
