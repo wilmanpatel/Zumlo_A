@@ -1,5 +1,6 @@
 
 using Microsoft.Extensions.Logging;
+using System.Collections.Generic;
 using System.Net.WebSockets;
 using System.Text;
 using System.Text.Json;
@@ -81,7 +82,9 @@ namespace Zumlo.Gateway.Api.WebSockets
                                 var payload = envelope.Payload.Deserialize<AudioEndMessage>();
                                 if (payload == null) break;
                                 _sessions.AudioCompleted(payload.sessionId);
+                                
                                 #region faketext
+                                
                                 // Stream transcript partials
                                 await foreach (var seg in _transcriber.StreamTranscriptAsync(payload.sessionId, _sessions))
                                 {
@@ -91,7 +94,22 @@ namespace Zumlo.Gateway.Api.WebSockets
 
                                 #endregion
 
-                                //#region "Azure Speech"
+
+                                #region "OpenAI"
+                                //List<byte> audioBuffer = new();
+                                //var session = _sessions.GetOrThrow(payload.sessionId);
+                                //audioBuffer.AddRange(session.AudioBuffer);
+                                //audioBuffer.ToArray();
+
+                                //var stt = new WhisperSpeechToTextEngine("KEY");
+
+
+                                //var transcript = await stt.TranscribeAsync(audioBuffer);
+
+                                #endregion
+
+
+                                #region "Azure Speech"
                                 //// 1) Get full session audio
                                 //var session = _sessions.GetOrThrow(payload.sessionId);
 
@@ -123,7 +141,7 @@ namespace Zumlo.Gateway.Api.WebSockets
                                 //    await Task.Delay(60);
                                 //}
 
-                                //#endregion
+                                #endregion
 
 
                                 // Assistant response streaming

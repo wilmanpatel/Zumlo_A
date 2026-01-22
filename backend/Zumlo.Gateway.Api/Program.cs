@@ -66,7 +66,7 @@ builder.Services.AddSingleton<TranscriptionSimulator>();
 builder.Services.AddSingleton<AssistantResponseSimulator>();
 builder.Services.AddSingleton<ConversationWebSocketHandler>();
 
-builder.Services.AddSingleton<IWhisperTranscriber, WhisperTranscriber>();
+
 builder.Services.AddHttpClient();
 var app = builder.Build();
 
